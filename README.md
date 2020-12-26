@@ -1,8 +1,12 @@
 # Machine-Learning-Resources
 
-Books:
+Subjects:
 
-Reinforcement Learning Book: http://incompleteideas.net/book/the-book-2nd.html
+Reinforcement Learning: 
+- RL book: http://incompleteideas.net/book/the-book-2nd.html
+- Deep RL course: http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html#lectures
+
+
 
 Deep Learning Book: https://www.deeplearningbook.org/
 
